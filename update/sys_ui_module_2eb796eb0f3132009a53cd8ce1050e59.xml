@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="MyRFM">e6b796eb0f3132009a53cd8ce1050e57</application>
+        <filter/>
+        <name>MyRFM Table</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_100284_myrfm.user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-04-04 13:54:13</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>2eb796eb0f3132009a53cd8ce1050e59</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>MyRFM Table</sys_name>
+        <sys_package display_value="MyRFM" source="x_100284_myrfm">b9b7d2eb0f3132009a53cd8ce1050ec4</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="MyRFM">b9b7d2eb0f3132009a53cd8ce1050ec4</sys_scope>
+        <sys_update_name>sys_ui_module_2eb796eb0f3132009a53cd8ce1050e59</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-04-04 13:54:13</sys_updated_on>
+        <table>x_100284_myrfm_table</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>
